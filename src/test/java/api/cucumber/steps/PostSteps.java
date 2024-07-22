@@ -9,7 +9,7 @@ import java.util.List;
 public class PostSteps {
     @Given("User should be logged in and should be present on his wall")
     public void UserShouldBeLoggedInAndShouldBePresentOnHisFall() throws Throwable{
-//        System.out.println("UserShouldBeLoggedInAndShouldBePresentOnHisFall");
+//        System.out.println("UserShouldBeLoggedInAndShouldBePresentOnHisFall_");
     }
 
     @When("I type the message in the text box")
